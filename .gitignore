@@ -1,0 +1,14 @@
+*.o 
+*~ 
+*.swap 
+*.swp 
+.project 
+PROJ/ 
+Debug/
+.settings/ 
+.cproject 
+tags 
+Readme
+SourceInsight/
+Project/
+
